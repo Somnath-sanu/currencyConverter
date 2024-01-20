@@ -1,6 +1,7 @@
 # Currency Converter App
 
-![Currency-Converter Image](public/currencyConverter.png)
+
+![Currency-Converter Image](https://github.com/Somnath-sanu/currencyConverter/assets/122222948/83b46487-71f0-469c-aef5-03533f645a47)
 
 ### A simple currency converter application built using React, custom hooks, and API integration.
 
